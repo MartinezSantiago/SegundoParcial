@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1635800004 source:c:\users\usuario\desktop\programación\ejercicioparcialsegundo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"jugadordefutbol.h"
+
+1636044125 c:\users\usuario\desktop\programación\ejercicioparcialsegundo\jugadordefutbol.h
+
+1636044166 source:c:\users\usuario\desktop\programación\ejercicioparcialsegundo\jugadordefutbol.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"jugadordefutbol.h"
+
